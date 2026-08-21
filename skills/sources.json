@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "source_key": "voltagent-awesome-agent-skills",
+      "source_name": "VoltAgent Awesome Agent Skills",
+      "source_repository": "VoltAgent/awesome-agent-skills",
+      "source_page": "https://github.com/VoltAgent/awesome-agent-skills",
+      "source_index_url": "https://raw.githubusercontent.com/VoltAgent/awesome-agent-skills/main/README.md",
+      "source_commit": "947656d844327df4d826eec58d74e17cd4fdbc4d",
+      "source_commit_date": "2026-08-13T09:34:35Z",
+      "source_license": "MIT"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Context Engineering
+
+> 19 real external Skill links.
+
+- **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** — Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows _(awrshift · `awrshift/claude-memory-kit`)_
+- **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** — Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors _(k-kolomeitsev · `k-kolomeitsev/data-structure-protocol`)_
+- **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** — Token audit, usage tracking, and swipe-to-delete skill pruning. _(khendzel · `khendzel/skills-janitor`)_
+- **[muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression)** — Design and evaluate compression strategies for long-running sessions _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/context-degradation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-degradation)** — Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/context-fundamentals](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals)** — Understand what context is, why it matters, and the anatomy of context in agent systems _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/context-optimization](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-optimization)** — Apply compaction, masking, and caching strategies _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** — Build evaluation frameworks for agent systems _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/memory-systems](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems)** — Design short-term, long-term, and graph-based memory architectures _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/multi-agent-patterns](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/multi-agent-patterns)** — Master orchestrator, peer-to-peer, and hierarchical multi-agent architectures _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design)** — Build tools that agents can use effectively, including architectural reduction patterns _(muratcankoylan · `muratcankoylan/Agent-Skills-for-Context-Engineering`)_
+- **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** — Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles. _(NeoLabHQ · `NeoLabHQ/context-engineering-kit`)_
+- **[ohad6k/emulo](https://github.com/ohad6k/emulo)** — Mines AI coding logs into personal agent profiles _(ohad6k · `ohad6k/emulo`)_
+- **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** — Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives _(oliver-zehentleitner · `oliver-zehentleitner/keep-the-why`)_
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** — Multi-platform search CLI for 17 sites including Chinese platforms _(Panniantong · `Panniantong/Agent-Reach`)_
+- **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** — Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes. _(sametbrr · `sametbrr/llm-wiki-manager`)_
+- **[stjbrown/agent-knowledge](https://github.com/stjbrown/agent-knowledge)** — Maintains portable, cited agent knowledge bases in plain Markdown _(stjbrown · `stjbrown/agent-knowledge`)_
+- **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** — Cross-session knowledge memory and rule evolution for AI coding agents _(Tubo2333 · `Tubo2333/obsidian-knowledge-brain`)_
+- **[zilliztech/mfs](https://github.com/zilliztech/mfs)** — mfs-find / mfs-ingest skills that search, grep and read across your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace; self-hosted with local ONNX embeddings _(zilliztech · `zilliztech/mfs`)_
+
+> Indexed only; not installed or audited.

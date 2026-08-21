@@ -1,0 +1,124 @@
+# Featured Maintainer-Published Skills
+
+精选只是新人入口，不是安全审计名单。
+
+- [microsoft/azure-ai-document-intelligence-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-document-intelligence-dotnet) — Document text, table, and data extraction
+- [microsoft/azure-ai-openai-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-openai-dotnet) — GPT-4, embeddings, DALL-E, and Whisper client
+- [microsoft/azure-ai-projects-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-projects-dotnet) — AI Foundry project management SDK
+- [microsoft/azure-ai-voicelive-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-dotnet) — Real-time bidirectional voice AI
+- [microsoft/azure-eventgrid-dotnet](https://officialskills.sh/microsoft/skills/azure-eventgrid-dotnet) — Event Grid topic and domain publishing
+- [microsoft/azure-eventhub-dotnet](https://officialskills.sh/microsoft/skills/azure-eventhub-dotnet) — High-throughput event streaming
+- [microsoft/azure-identity-dotnet](https://officialskills.sh/microsoft/skills/azure-identity-dotnet) — Microsoft Entra ID authentication
+- [microsoft/azure-maps-search-dotnet](https://officialskills.sh/microsoft/skills/azure-maps-search-dotnet) — Geocoding, routing, and weather services
+- [microsoft/azure-mgmt-apicenter-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-apicenter-dotnet) — API inventory and governance
+- [microsoft/azure-mgmt-apimanagement-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-apimanagement-dotnet) — API Management provisioning via ARM
+- [microsoft/azure-mgmt-applicationinsights-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-applicationinsights-dotnet) — Application Insights resource management
+- [microsoft/azure-mgmt-arizeaiobservabilityeval-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-arizeaiobservabilityeval-dotnet) — Arize AI observability management
+- [microsoft/azure-mgmt-botservice-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-botservice-dotnet) — Bot Service provisioning via ARM
+- [microsoft/azure-mgmt-fabric-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-fabric-dotnet) — Microsoft Fabric capacity management
+- [microsoft/azure-mgmt-mongodbatlas-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-mongodbatlas-dotnet) — MongoDB Atlas as ARM resources
+- [microsoft/azure-mgmt-weightsandbiases-dotnet](https://officialskills.sh/microsoft/skills/azure-mgmt-weightsandbiases-dotnet) — Weights & Biases deployment management
+- [microsoft/azure-resource-manager-cosmosdb-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-cosmosdb-dotnet) — Cosmos DB resource provisioning
+- [microsoft/azure-resource-manager-durabletask-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-durabletask-dotnet) — Durable Task Scheduler management
+- [microsoft/azure-resource-manager-mysql-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-mysql-dotnet) — MySQL Flexible Server management
+- [microsoft/azure-resource-manager-playwright-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-playwright-dotnet) — Playwright Testing workspace management
+- [microsoft/azure-resource-manager-postgresql-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-postgresql-dotnet) — PostgreSQL Flexible Server management
+- [microsoft/azure-resource-manager-redis-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-redis-dotnet) — Azure Cache for Redis provisioning
+- [microsoft/azure-resource-manager-sql-dotnet](https://officialskills.sh/microsoft/skills/azure-resource-manager-sql-dotnet) — Azure SQL resource management
+- [microsoft/azure-search-documents-dotnet](https://officialskills.sh/microsoft/skills/azure-search-documents-dotnet) — Full-text, vector, and hybrid search
+- [microsoft/azure-security-keyvault-keys-dotnet](https://officialskills.sh/microsoft/skills/azure-security-keyvault-keys-dotnet) — Cryptographic key management
+- [microsoft/azure-servicebus-dotnet](https://officialskills.sh/microsoft/skills/azure-servicebus-dotnet) — Enterprise messaging with queues and topics
+- [microsoft/m365-agents-dotnet](https://officialskills.sh/microsoft/skills/m365-agents-dotnet) — M365, Teams, and Copilot Studio agents
+- [microsoft/microsoft-azure-webjobs-extensions-authentication-events-dotnet](https://officialskills.sh/microsoft/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet) — Entra ID custom auth events handler
+- [microsoft/cloud-solution-architect](https://officialskills.sh/microsoft/skills/cloud-solution-architect) — Design well-architected Azure cloud systems
+- [microsoft/continual-learning](https://officialskills.sh/microsoft/skills/continual-learning) — Continual learning patterns for Azure AI
+- [microsoft/copilot-sdk](https://officialskills.sh/microsoft/skills/copilot-sdk) — Build applications powered by GitHub Copilot SDK
+- [microsoft/entra-agent-id](https://officialskills.sh/microsoft/skills/entra-agent-id) — Microsoft Entra Agent ID OAuth2 identities via Graph API
+- [microsoft/frontend-design-review](https://officialskills.sh/microsoft/skills/frontend-design-review) — Review and create distinctive frontend interfaces
+- [microsoft/github-issue-creator](https://officialskills.sh/microsoft/skills/github-issue-creator) — Structured GitHub issue reports from notes
+- [microsoft/mcp-builder](https://officialskills.sh/microsoft/skills/mcp-builder) — MCP server creation guide for LLM tool integration
+- [microsoft/podcast-generation](https://officialskills.sh/microsoft/skills/podcast-generation) — AI podcast audio with Azure OpenAI Realtime API
+- [microsoft/skill-creator](https://officialskills.sh/microsoft/skills/skill-creator) — Guide for creating effective skills for AI coding agents
+- [microsoft/azure-ai-anomalydetector-java](https://officialskills.sh/microsoft/skills/azure-ai-anomalydetector-java) — Anomaly detection applications
+- [microsoft/azure-ai-contentsafety-java](https://officialskills.sh/microsoft/skills/azure-ai-contentsafety-java) — Content moderation and safety
+- [microsoft/azure-ai-formrecognizer-java](https://officialskills.sh/microsoft/skills/azure-ai-formrecognizer-java) — Document analysis and form extraction
+- [microsoft/azure-ai-projects-java](https://officialskills.sh/microsoft/skills/azure-ai-projects-java) — AI Foundry project management
+- [microsoft/azure-ai-vision-imageanalysis-java](https://officialskills.sh/microsoft/skills/azure-ai-vision-imageanalysis-java) — Image captioning, OCR, and object detection
+- [microsoft/azure-ai-voicelive-java](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-java) — Real-time bidirectional voice AI
+- [microsoft/azure-appconfiguration-java](https://officialskills.sh/microsoft/skills/azure-appconfiguration-java) — Centralized app configuration management
+- [microsoft/azure-communication-callautomation-java](https://officialskills.sh/microsoft/skills/azure-communication-callautomation-java) — Call automation with IVR and AI
+- [microsoft/azure-communication-callingserver-java](https://officialskills.sh/microsoft/skills/azure-communication-callingserver-java) — CallingServer legacy SDK
+- [microsoft/azure-communication-chat-java](https://officialskills.sh/microsoft/skills/azure-communication-chat-java) — Real-time chat with threads and receipts
+- [microsoft/azure-communication-common-java](https://officialskills.sh/microsoft/skills/azure-communication-common-java) — Communication Services common utilities
+- [microsoft/azure-communication-sms-java](https://officialskills.sh/microsoft/skills/azure-communication-sms-java) — SMS sending and delivery reports
+- [microsoft/azure-compute-batch-java](https://officialskills.sh/microsoft/skills/azure-compute-batch-java) — Large-scale parallel and HPC batch jobs
+- [microsoft/azure-cosmos-java](https://officialskills.sh/microsoft/skills/azure-cosmos-java) — Cosmos DB NoSQL with global distribution
+- [microsoft/azure-data-tables-java](https://officialskills.sh/microsoft/skills/azure-data-tables-java) — NoSQL key-value table storage
+- [microsoft/azure-eventgrid-java](https://officialskills.sh/microsoft/skills/azure-eventgrid-java) — Event-driven pub/sub messaging
+- [microsoft/azure-eventhub-java](https://officialskills.sh/microsoft/skills/azure-eventhub-java) — Real-time high-throughput streaming
+- [microsoft/azure-identity-java](https://officialskills.sh/microsoft/skills/azure-identity-java) — Microsoft Entra ID authentication
+- [microsoft/azure-messaging-webpubsub-java](https://officialskills.sh/microsoft/skills/azure-messaging-webpubsub-java) — Real-time WebSocket messaging
+- [microsoft/azure-monitor-ingestion-java](https://officialskills.sh/microsoft/skills/azure-monitor-ingestion-java) — Custom log ingestion to Azure Monitor
+- [microsoft/azure-monitor-opentelemetry-exporter-java](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-exporter-java) — OpenTelemetry export to Azure Monitor
+- [microsoft/azure-monitor-query-java](https://officialskills.sh/microsoft/skills/azure-monitor-query-java) — Query Azure Monitor logs and metrics
+- [microsoft/azure-security-keyvault-keys-java](https://officialskills.sh/microsoft/skills/azure-security-keyvault-keys-java) — Cryptographic key management
+- [microsoft/azure-security-keyvault-secrets-java](https://officialskills.sh/microsoft/skills/azure-security-keyvault-secrets-java) — Secret management for passwords and keys
+- [microsoft/azure-storage-blob-java](https://officialskills.sh/microsoft/skills/azure-storage-blob-java) — Blob storage for file management
+- [anthropics/algorithmic-art](https://officialskills.sh/anthropics/skills/algorithmic-art) — Create generative art using p5.js with seeded randomness
+- [anthropics/brand-guidelines](https://officialskills.sh/anthropics/skills/brand-guidelines) — Apply Anthropic's brand colors and typography to artifacts
+- [anthropics/canvas-design](https://officialskills.sh/anthropics/skills/canvas-design) — Design visual art in PNG and PDF formats
+- [anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring) — Collaborative document editing and co-authoring
+- [anthropics/docx](https://officialskills.sh/anthropics/skills/docx) — Create, edit, and analyze Word documents
+- [anthropics/frontend-design](https://officialskills.sh/anthropics/skills/frontend-design) — Frontend design and UI/UX development tools
+- [anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms) — Write status reports, newsletters, and FAQs
+- [anthropics/mcp-builder](https://officialskills.sh/anthropics/skills/mcp-builder) — Create MCP servers to integrate external APIs and services
+- [anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf) — Extract text, create PDFs, and handle forms
+- [anthropics/pptx](https://officialskills.sh/anthropics/skills/pptx) — Create, edit, and analyze PowerPoint presentations
+- [anthropics/skill-creator](https://officialskills.sh/anthropics/skills/skill-creator) — Guide for creating skills that extend Claude's capabilities
+- [anthropics/slack-gif-creator](https://officialskills.sh/anthropics/skills/slack-gif-creator) — Create animated GIFs optimized for Slack size constraints
+- [anthropics/template](https://officialskills.sh/anthropics/skills/template) — Basic template for creating new skills
+- [anthropics/theme-factory](https://officialskills.sh/anthropics/skills/theme-factory) — Style artifacts with professional themes or generate custom themes
+- [anthropics/web-artifacts-builder](https://officialskills.sh/anthropics/skills/web-artifacts-builder) — Build complex claude.ai HTML artifacts with React and Tailwind
+- [anthropics/webapp-testing](https://officialskills.sh/anthropics/skills/webapp-testing) — Test local web applications using Playwright
+- [anthropics/xlsx](https://officialskills.sh/anthropics/skills/xlsx) — Create, edit, and analyze Excel spreadsheets
+- [microsoft/agent-framework-azure-ai-py](https://officialskills.sh/microsoft/skills/agent-framework-azure-ai-py) — Agent Framework for Azure AI Foundry
+- [microsoft/agents-v2-py](https://officialskills.sh/microsoft/skills/agents-v2-py) — Foundry Agents SDK — container-based agents with custom images
+- [microsoft/azure-ai-contentsafety-py](https://officialskills.sh/microsoft/skills/azure-ai-contentsafety-py) — Harmful content detection
+- [microsoft/azure-ai-contentunderstanding-py](https://officialskills.sh/microsoft/skills/azure-ai-contentunderstanding-py) — Multimodal content extraction
+- [microsoft/azure-ai-ml-py](https://officialskills.sh/microsoft/skills/azure-ai-ml-py) — Azure ML workspace and job management
+- [microsoft/azure-ai-projects-py](https://officialskills.sh/microsoft/skills/azure-ai-projects-py) — AI Foundry project client and agents
+- [microsoft/azure-ai-textanalytics-py](https://officialskills.sh/microsoft/skills/azure-ai-textanalytics-py) — NLP: sentiment, entities, key phrases
+- [microsoft/azure-ai-transcription-py](https://officialskills.sh/microsoft/skills/azure-ai-transcription-py) — Speech-to-text transcription
+- [microsoft/azure-ai-translation-document-py](https://officialskills.sh/microsoft/skills/azure-ai-translation-document-py) — Batch document translation
+- [microsoft/azure-ai-translation-text-py](https://officialskills.sh/microsoft/skills/azure-ai-translation-text-py) — Real-time text translation
+- [microsoft/azure-ai-vision-imageanalysis-py](https://officialskills.sh/microsoft/skills/azure-ai-vision-imageanalysis-py) — Image captions, tags, OCR, objects
+- [microsoft/azure-ai-voicelive-py](https://officialskills.sh/microsoft/skills/azure-ai-voicelive-py) — Real-time bidirectional voice AI
+- [microsoft/azure-appconfiguration-py](https://officialskills.sh/microsoft/skills/azure-appconfiguration-py) — Feature flags and dynamic settings
+- [microsoft/azure-containerregistry-py](https://officialskills.sh/microsoft/skills/azure-containerregistry-py) — Container image and registry management
+- [microsoft/azure-cosmos-db-py](https://officialskills.sh/microsoft/skills/azure-cosmos-db-py) — Cosmos DB with Python/FastAPI patterns
+- [microsoft/azure-cosmos-py](https://officialskills.sh/microsoft/skills/azure-cosmos-py) — Cosmos DB NoSQL client library
+- [microsoft/azure-data-tables-py](https://officialskills.sh/microsoft/skills/azure-data-tables-py) — NoSQL key-value table storage
+- [microsoft/azure-eventgrid-py](https://officialskills.sh/microsoft/skills/azure-eventgrid-py) — Event-driven pub/sub routing
+- [microsoft/azure-eventhub-py](https://officialskills.sh/microsoft/skills/azure-eventhub-py) — High-throughput event streaming
+- [microsoft/azure-identity-py](https://officialskills.sh/microsoft/skills/azure-identity-py) — Microsoft Entra ID authentication
+- [microsoft/azure-keyvault-py](https://officialskills.sh/microsoft/skills/azure-keyvault-py) — Secrets, keys, and certificate management
+- [microsoft/azure-messaging-webpubsubservice-py](https://officialskills.sh/microsoft/skills/azure-messaging-webpubsubservice-py) — Real-time WebSocket messaging
+- [microsoft/azure-mgmt-apicenter-py](https://officialskills.sh/microsoft/skills/azure-mgmt-apicenter-py) — API inventory and governance
+- [microsoft/azure-mgmt-apimanagement-py](https://officialskills.sh/microsoft/skills/azure-mgmt-apimanagement-py) — API Management service administration
+- [microsoft/azure-mgmt-botservice-py](https://officialskills.sh/microsoft/skills/azure-mgmt-botservice-py) — Bot Service resource management
+- [microsoft/azure-mgmt-fabric-py](https://officialskills.sh/microsoft/skills/azure-mgmt-fabric-py) — Microsoft Fabric capacity management
+- [microsoft/azure-monitor-ingestion-py](https://officialskills.sh/microsoft/skills/azure-monitor-ingestion-py) — Custom log ingestion to Azure Monitor
+- [microsoft/azure-monitor-opentelemetry-exporter-py](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-exporter-py) — OpenTelemetry export to Application Insights
+- [microsoft/azure-monitor-opentelemetry-py](https://officialskills.sh/microsoft/skills/azure-monitor-opentelemetry-py) — One-line Application Insights setup
+- [microsoft/azure-monitor-query-py](https://officialskills.sh/microsoft/skills/azure-monitor-query-py) — Query Azure Monitor logs and metrics
+- [microsoft/azure-search-documents-py](https://officialskills.sh/microsoft/skills/azure-search-documents-py) — Full-text, vector, and hybrid search
+- [microsoft/azure-servicebus-py](https://officialskills.sh/microsoft/skills/azure-servicebus-py) — Enterprise messaging with queues and topics
+- [microsoft/azure-speech-to-text-rest-py](https://officialskills.sh/microsoft/skills/azure-speech-to-text-rest-py) — REST speech-to-text for short audio
+- [microsoft/azure-storage-blob-py](https://officialskills.sh/microsoft/skills/azure-storage-blob-py) — Blob object storage client
+- [microsoft/azure-storage-file-datalake-py](https://officialskills.sh/microsoft/skills/azure-storage-file-datalake-py) — Hierarchical data lake storage
+- [microsoft/azure-storage-file-share-py](https://officialskills.sh/microsoft/skills/azure-storage-file-share-py) — SMB file share management
+- [microsoft/azure-storage-queue-py](https://officialskills.sh/microsoft/skills/azure-storage-queue-py) — Simple message queuing
+- [microsoft/fastapi-router-py](https://officialskills.sh/microsoft/skills/fastapi-router-py) — FastAPI routers with CRUD and auth
+- [microsoft/m365-agents-py](https://officialskills.sh/microsoft/skills/m365-agents-py) — M365, Teams, and Copilot Studio agents
+- [microsoft/pydantic-models-py](https://officialskills.sh/microsoft/skills/pydantic-models-py) — Pydantic models for API schemas
+- [microsoft/azure-cosmos-rust](https://officialskills.sh/microsoft/skills/azure-cosmos-rust) — Cosmos DB NoSQL client

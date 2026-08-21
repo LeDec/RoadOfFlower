@@ -1,0 +1,71 @@
+# Product Management Skills by Pawel Huryn
+
+> 65 real external Skill links.
+
+- **[phuryn/ab-test-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/ab-test-analysis)** — Analyze A/B test results with statistical significance and recommendations _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/analyze-feature-requests](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/analyze-feature-requests)** — Prioritize feature requests by theme, impact, effort, and risk _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/ansoff-matrix](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/ansoff-matrix)** — Ansoff Matrix analysis across 4 growth strategy quadrants _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/beachhead-segment](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/beachhead-segment)** — Identify the first beachhead market segment for product launch _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/brainstorm-experiments-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-experiments-existing)** — Design experiments to test assumptions for existing products _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/brainstorm-experiments-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-experiments-new)** — Design lean pretotypes for new product validation _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/brainstorm-ideas-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-ideas-existing)** — Brainstorm product ideas from PM, Designer, Engineer perspectives _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/brainstorm-ideas-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/brainstorm-ideas-new)** — Brainstorm feature ideas for new products in early discovery _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/brainstorm-okrs](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/brainstorm-okrs)** — Brainstorm team OKRs aligned with company objectives _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/business-model](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/business-model)** — Generate Business Model Canvas with all 9 building blocks _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/cohort-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/cohort-analysis)** — Cohort retention curves, feature adoption, and segment insights _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/competitive-battlecard](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/competitive-battlecard)** — Create sales-ready battlecards against specific competitors _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/competitor-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/competitor-analysis)** — Analyze competitors with strengths, weaknesses, and differentiation _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/create-prd](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/create-prd)** — Create a PRD with 8-section template covering problem to release _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/customer-journey-map](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/customer-journey-map)** — Map customer journeys with touchpoints, emotions, and opportunities _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/draft-nda](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/draft-nda)** — Draft NDAs covering information types, jurisdiction, and clauses _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/dummy-dataset](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/dummy-dataset)** — Generate realistic dummy datasets in CSV, JSON, or SQL _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** — Identify grammar and flow errors with targeted fix suggestions _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/growth-loops](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/growth-loops)** — Identify growth loops across 5 flywheel types for traction _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/gtm-motions](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/gtm-motions)** — Identify best GTM motions across 7 types including PLG and ABM _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/gtm-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/gtm-strategy)** — Create GTM strategy with channels, messaging, and launch timeline _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/ideal-customer-profile](https://github.com/phuryn/pm-skills/tree/main/pm-go-to-market/skills/ideal-customer-profile)** — Identify ICP with demographics, behaviors, and JTBD _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/identify-assumptions-existing](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/identify-assumptions-existing)** — Identify risky assumptions across Value, Usability, Viability, Feasibility _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/identify-assumptions-new](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/identify-assumptions-new)** — Identify risky assumptions for new products across 8 risk categories _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/interview-script](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/interview-script)** — Create structured customer interview scripts with JTBD probing _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/job-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/job-stories)** — Create job stories with acceptance criteria in JTBD format _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/lean-canvas](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/lean-canvas)** — Generate Lean Canvas with problem, solution, UVP, and metrics _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/market-segments](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-segments)** — Identify 3-5 customer segments with JTBD and product fit _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/market-sizing](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/market-sizing)** — Estimate TAM, SAM, SOM with top-down and bottom-up approaches _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/marketing-ideas](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/marketing-ideas)** — Generate 5 creative, cost-effective marketing ideas with rationale _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/metrics-dashboard](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/metrics-dashboard)** — Define product metrics dashboard with sources and alert thresholds _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/monetization-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/monetization-strategy)** — Brainstorm 3-5 monetization strategies with validation experiments _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/north-star-metric](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/north-star-metric)** — Define North Star Metric and input metrics constellation _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/opportunity-solution-tree](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/opportunity-solution-tree)** — Build Opportunity Solution Trees based on Teresa Torres' method _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/outcome-roadmap](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/outcome-roadmap)** — Transform output roadmaps into outcome-focused strategic plans _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/pestle-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/pestle-analysis)** — PESTLE analysis across Political, Economic, Social, Tech, Legal, Environmental _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/porters-five-forces](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/porters-five-forces)** — Porter's Five Forces competitive analysis with strategic insights _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/positioning-ideas](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/positioning-ideas)** — Brainstorm positioning ideas differentiated from competitors _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/pre-mortem](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/pre-mortem)** — Run pre-mortem risk analysis on PRDs and launch plans _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/pricing-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/pricing-strategy)** — Design pricing strategies with competitive analysis and WTP estimation _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/prioritization-frameworks](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/prioritization-frameworks)** — Reference guide to 9 prioritization frameworks with templates _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/prioritize-assumptions](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/prioritize-assumptions)** — Prioritize assumptions with Impact × Risk matrix and experiments _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/prioritize-features](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/prioritize-features)** — Prioritize backlog by impact, effort, risk, and strategic alignment _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/privacy-policy](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/privacy-policy)** — Draft privacy policies with GDPR compliance considerations _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/product-name](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/product-name)** — Brainstorm 5 memorable product names aligned to brand values _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/product-strategy](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-strategy)** — Create product strategy using 9-section Product Strategy Canvas _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/product-vision](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/product-vision)** — Brainstorm inspiring, achievable product vision statements _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/release-notes](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/release-notes)** — Generate user-facing release notes from tickets or changelogs _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/retro](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/retro)** — Facilitate structured sprint retrospectives with action items _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/review-resume](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/review-resume)** — PM resume review against 10 best practices including XYZ+S formula _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/sentiment-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/sentiment-analysis)** — Analyze user feedback with sentiment scores and JTBD insights _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/sprint-plan](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/sprint-plan)** — Plan sprints with capacity, story selection, and risk mapping _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/sql-queries](https://github.com/phuryn/pm-skills/tree/main/pm-data-analytics/skills/sql-queries)** — Generate SQL queries from natural language across major dialects _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/stakeholder-map](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/stakeholder-map)** — Build stakeholder maps with power/interest grid and comms plan _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/startup-canvas](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/startup-canvas)** — Generate Startup Canvas combining Product Strategy and Business Model _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/summarize-interview](https://github.com/phuryn/pm-skills/tree/main/pm-product-discovery/skills/summarize-interview)** — Summarize interview transcripts with JTBD and action items _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/summarize-meeting](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/summarize-meeting)** — Summarize meeting transcripts into structured notes and actions _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/swot-analysis](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/swot-analysis)** — SWOT analysis with actionable recommendations per quadrant _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/test-scenarios](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/test-scenarios)** — Create comprehensive test scenarios from user stories _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/user-personas](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-personas)** — Create 3 user personas with JTBD, pains, and gains _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/user-segmentation](https://github.com/phuryn/pm-skills/tree/main/pm-market-research/skills/user-segmentation)** — Segment users by behavior, JTBD, and needs from feedback data _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/user-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/user-stories)** — Create INVEST-compliant user stories with 3 C's structure _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/value-prop-statements](https://github.com/phuryn/pm-skills/tree/main/pm-marketing-growth/skills/value-prop-statements)** — Generate value prop statements for marketing, sales, and onboarding _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/value-proposition](https://github.com/phuryn/pm-skills/tree/main/pm-product-strategy/skills/value-proposition)** — Design value propositions using 6-part JTBD template _(phuryn · `phuryn/pm-skills`)_
+- **[phuryn/wwas](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/wwas)** — Create backlog items in Why-What-Acceptance format _(phuryn · `phuryn/pm-skills`)_
+
+> Indexed only; not installed or audited.

@@ -1,0 +1,250 @@
+{
+  "target_count": 500,
+  "featured_count": 300,
+  "minimum_count": 350,
+  "minimum_repositories": 15,
+  "search_queries": [
+    "topic:agent-skills archived:false fork:false stars:>3",
+    "\"agent skills\" in:name,description,readme archived:false fork:false stars:>10",
+    "\"claude skills\" in:name,description,readme archived:false fork:false stars:>10",
+    "\"codex skills\" in:name,description,readme archived:false fork:false stars:>5",
+    "\"scientific agent skills\" in:name,description,readme archived:false fork:false",
+    "\"SKILL.md\" in:readme agent archived:false fork:false stars:>5"
+  ],
+  "repositories": [
+    {
+      "repository": "anthropics/skills",
+      "tier": "official",
+      "reason": "Anthropic-maintained Agent Skills",
+      "max_items": 60
+    },
+    {
+      "repository": "anthropics/claude-plugins-official",
+      "tier": "official",
+      "reason": "Anthropic official plugin and skill collection",
+      "max_items": 60
+    },
+    {
+      "repository": "vercel-labs/agent-skills",
+      "tier": "maintainer",
+      "reason": "Vercel Labs Agent Skills",
+      "max_items": 55
+    },
+    {
+      "repository": "vercel-labs/skills",
+      "tier": "maintainer",
+      "reason": "Vercel Labs skills tooling and examples",
+      "max_items": 40
+    },
+    {
+      "repository": "huggingface/skills",
+      "tier": "official",
+      "reason": "Hugging Face maintained skills",
+      "max_items": 60
+    },
+    {
+      "repository": "addyosmani/agent-skills",
+      "tier": "maintainer",
+      "reason": "Web quality and engineering skills by a recognized maintainer",
+      "max_items": 45
+    },
+    {
+      "repository": "greensock/gsap-skills",
+      "tier": "official",
+      "reason": "GSAP-maintained skills",
+      "max_items": 30
+    },
+    {
+      "repository": "K-Dense-AI/scientific-agent-skills",
+      "tier": "scientific",
+      "reason": "Large scientific workflow skill collection",
+      "max_items": 80
+    },
+    {
+      "repository": "ReScienceLab/opc-skills",
+      "tier": "scientific",
+      "reason": "Open research and reproducibility-oriented skills",
+      "max_items": 60
+    },
+    {
+      "repository": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "tier": "maintainer",
+      "reason": "Context engineering skill collection",
+      "max_items": 45
+    },
+    {
+      "repository": "obra/superpowers",
+      "tier": "maintainer",
+      "reason": "Widely used software-development skill methodology",
+      "max_items": 45
+    },
+    {
+      "repository": "wshobson/agents",
+      "tier": "community",
+      "reason": "Broad engineering agent and skill collection",
+      "max_items": 45
+    },
+    {
+      "repository": "tech-leads-club/agent-skills",
+      "tier": "community",
+      "reason": "Engineering leadership and delivery skills",
+      "max_items": 45
+    },
+    {
+      "repository": "alirezarezvani/claude-skills",
+      "tier": "community",
+      "reason": "Cross-functional professional skills",
+      "max_items": 45
+    },
+    {
+      "repository": "ConardLi/garden-skills",
+      "tier": "community",
+      "reason": "Chinese-friendly general skill garden",
+      "max_items": 40
+    },
+    {
+      "repository": "MengTo/Skills",
+      "tier": "community",
+      "reason": "Design and product-oriented skill collection",
+      "max_items": 40
+    },
+    {
+      "repository": "samber/cc-skills-golang",
+      "tier": "maintainer",
+      "reason": "Focused Go engineering skills",
+      "max_items": 35
+    },
+    {
+      "repository": "itsmostafa/aws-agent-skills",
+      "tier": "community",
+      "reason": "AWS engineering skill collection",
+      "max_items": 45
+    },
+    {
+      "repository": "kepano/obsidian-skills",
+      "tier": "maintainer",
+      "reason": "Obsidian-maintained knowledge-work skills",
+      "max_items": 25
+    },
+    {
+      "repository": "OthmanAdi/planning-with-files",
+      "tier": "community",
+      "reason": "File-backed planning workflow skill",
+      "max_items": 20
+    },
+    {
+      "repository": "steipete/agent-scripts",
+      "tier": "maintainer",
+      "reason": "Practical agent engineering utilities and skills",
+      "max_items": 35
+    },
+    {
+      "repository": "lackeyjb/playwright-skill",
+      "tier": "community",
+      "reason": "Browser automation skill",
+      "max_items": 15
+    },
+    {
+      "repository": "nicobailon/visual-explainer",
+      "tier": "community",
+      "reason": "Visual explanation skill",
+      "max_items": 15
+    },
+    {
+      "repository": "numman-ali/openskills",
+      "tier": "community",
+      "reason": "Open Agent Skills tooling",
+      "max_items": 25
+    },
+    {
+      "repository": "sickn33/agentic-awesome-skills",
+      "tier": "community",
+      "reason": "Large direct skill-file collection; treated as community source",
+      "max_items": 45
+    },
+    {
+      "repository": "iflytek/skillhub",
+      "tier": "maintainer",
+      "reason": "Skill registry and collection maintained by iFlytek",
+      "max_items": 45
+    },
+    {
+      "repository": "microsoft/vscode",
+      "tier": "official",
+      "reason": "Skills used in VS Code and Copilot development",
+      "max_items": 30
+    },
+    {
+      "repository": "microsoft/fluentui",
+      "tier": "official",
+      "reason": "Skills used by Microsoft Fluent UI maintainers",
+      "max_items": 30
+    },
+    {
+      "repository": "microsoft/aspire",
+      "tier": "official",
+      "reason": "Skills used in .NET Aspire engineering",
+      "max_items": 30
+    },
+    {
+      "repository": "microsoft/FluidFramework",
+      "tier": "official",
+      "reason": "Skills used in Microsoft Fluid Framework engineering",
+      "max_items": 30
+    },
+    {
+      "repository": "microsoft/apm",
+      "tier": "official",
+      "reason": "Microsoft agent package management skills",
+      "max_items": 25
+    },
+    {
+      "repository": "alchaincyf/nuwa-skill",
+      "tier": "community",
+      "reason": "General-purpose Chinese skill collection",
+      "max_items": 35
+    },
+    {
+      "repository": "cloudflare/skills",
+      "tier": "official",
+      "reason": "Cloudflare-maintained production and platform skills",
+      "max_items": 55
+    },
+    {
+      "repository": "cloudflare/security-audit-skill",
+      "tier": "official",
+      "reason": "Cloudflare-maintained defensive security audit skill",
+      "max_items": 15
+    },
+    {
+      "repository": "supabase/agent-skills",
+      "tier": "official",
+      "reason": "Supabase-maintained database and platform skills",
+      "max_items": 45
+    },
+    {
+      "repository": "getsentry/skills",
+      "tier": "official",
+      "reason": "Sentry-maintained engineering and observability skills",
+      "max_items": 45
+    },
+    {
+      "repository": "getsentry/sentry-agent-skills",
+      "tier": "official",
+      "reason": "Sentry-maintained agent integration skills",
+      "max_items": 35
+    },
+    {
+      "repository": "google-gemini/gemini-skills",
+      "tier": "official",
+      "reason": "Google Gemini-maintained Agent Skills",
+      "max_items": 35
+    },
+    {
+      "repository": "firebase/agent-skills",
+      "tier": "official",
+      "reason": "Firebase-maintained application and backend skills",
+      "max_items": 45
+    }
+  ]
+}

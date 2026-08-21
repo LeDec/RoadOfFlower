@@ -1,0 +1,112 @@
+name: Expand Direct Skill Index and Wish
+
+on:
+  push:
+    branches:
+      - agent/skill-map-1200
+    paths:
+      - '.bootstrap/expansion-parts/**'
+      - '.bootstrap/direct_sources.json'
+      - '.bootstrap/sync_direct_skills.py'
+      - '.bootstrap/test_sync_direct_skills.py'
+      - '.bootstrap/fix_root_skill_url_validation.py'
+      - '.bootstrap/generate_zmz2_wish.py'
+      - '.bootstrap/test_generate_zmz2_wish.py'
+      - 'scripts/validate_direct_catalog.py'
+      - 'scripts/search_direct_skills.py'
+      - 'tests/test_direct_catalog.py'
+      - 'docs/07-independent-skill-research.md'
+      - '.github/workflows/bootstrap-skill-map.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: expand-direct-skills-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  research-and-publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Unpack reviewed expansion bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat .bootstrap/expansion-parts/part-* | base64 -d > /tmp/road-of-flower-expansion.tar.gz
+          echo 'b949eb8397eb4a2b208fec16fa074cf05c673f4817daa9fc227bf0b633e42512  /tmp/road-of-flower-expansion.tar.gz' | sha256sum -c -
+          tar -xzf /tmp/road-of-flower-expansion.tar.gz
+          rm -rf .bootstrap/expansion-parts
+
+      - name: Repair root-level Skill URL validation
+        run: python .bootstrap/fix_root_skill_url_validation.py
+
+      - name: Verify direct-research and wish generators
+        shell: bash
+        run: |
+          set -euo pipefail
+          python .bootstrap/test_sync_direct_skills.py -v
+          python .bootstrap/test_generate_zmz2_wish.py -v
+          python -m unittest tests.test_direct_catalog -v
+
+      - name: Generate personal wish under account namespace
+        run: python .bootstrap/generate_zmz2_wish.py "$GITHUB_WORKSPACE"
+
+      - name: Independently research direct Skill repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .bootstrap/sync_direct_skills.py "$GITHUB_WORKSPACE" --target 500 --featured 300
+
+      - name: Validate imported and independently researched catalogs
+        shell: bash
+        run: |
+          set -euo pipefail
+          python scripts/validate_catalog.py
+          python scripts/validate_direct_catalog.py --minimum 350 --minimum-repositories 15
+          python -m unittest discover -v
+          python scripts/search_skills.py 'pdf document' --limit 5
+          python scripts/search_direct_skills.py 'research paper' --limit 5
+          python scripts/search_direct_skills.py 'github pull request' --limit 5
+          test "$(grep -c '^### 第 [0-9][0-9][0-9] 个愿望：' wish/zmz2/WISH_LIST.md)" -eq 120
+          test "$(wc -l < wish/zmz2/WISH_LIST.md)" -gt 1000
+          test "$(find wish/zmz2/assets -name '*.svg' -type f | wc -l)" -eq 3
+          git diff --check
+
+      - name: Guard workflow files
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! git diff --quiet -- .github/workflows; then
+            echo 'Generation must never modify workflow files.' >&2
+            git diff -- .github/workflows >&2
+            exit 1
+          fi
+
+      - name: Publish direct index and wish
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --name-only | grep -q '^.github/workflows/'; then
+            echo 'Refusing to publish workflow-file changes.' >&2
+            exit 1
+          fi
+          if git diff --cached --quiet; then
+            echo 'Direct index and wish are already current.'
+            exit 0
+          fi
+          git commit -m 'Add independently researched Skill index and zmz2 wish'
+          git push origin HEAD:agent/skill-map-1200
